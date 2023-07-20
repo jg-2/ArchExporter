@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+Class-Path: h2-2.2.220.jar log4j-api-2.20.0.jar log4j-core-2.20.0.jar ms
+ sql-jdbc-9.4.1.jre8.jar
+

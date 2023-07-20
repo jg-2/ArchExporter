@@ -1,0 +1,27 @@
+$current
+
+Raport eksportu plików z CDMArch
+
+Próbka danych:
+Liczba dokumentów: $alldocs
+Liczba stron: $pages
+Srednio stron na dokument: $ppd
+
+
+Czas eksportu:
+Od: $from
+Do: $to
+Czas: $time
+
+Czas konwersji pdf: $pdfTime
+Czas eksportu XML: $xmlTime
+Sredni czas eksportu pojedyńczego dokumentu: $avgTime
+
+
+Rozmiar wejsciowych plików tiff: $tiffSizes
+Rozmiary wyjsciowych plików pdf: $pdfSizes
+Sredni rozmiar tiff: $avgTiff
+Sredni rozmiar pdf: $avgPdf
+
+
+

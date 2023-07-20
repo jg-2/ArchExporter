@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="ArchExporter" />
+      <element id="directory" name="cfg">
+        <element id="file-copy" path="$PROJECT_DIR$/cfg/log4j.config.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/cfg/rapTemplate.txt" />
+        <element id="file-copy" path="$PROJECT_DIR$/cfg/ArchExporter.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/cfg/xmlTemplate.xml" />
+      </element>
+    </root>
+  </artifact>
+</component>

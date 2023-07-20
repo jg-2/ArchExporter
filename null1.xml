@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+ <root>
+    <document>
+        <field level="document" name = "Odbiorca - Departament" value="Biuro Maklerskie" />
+        <field level="document" name = "Kategoria" value="Jakas dluga kategoria" />
+        <field level="document" name = "Typ Produktu" value="$typ_produktu" />
+        <field level="document" name = "Typ Dokumentu" value="$typ_produktu" />
+    </document>
+</root>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="ArchExporter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArchExporter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ArchExporter.jar">
+        <element id="module-output" name="ArchExporter" />
+      </element>
+      <element id="library" level="project" name="Maven: com.h2database:h2:2.2.220" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.20.0" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.20.0" />
+      <element id="library" level="project" name="Maven: com.microsoft.sqlserver:mssql-jdbc:9.4.1.jre8" />
+    </root>
+  </artifact>
+</component>
